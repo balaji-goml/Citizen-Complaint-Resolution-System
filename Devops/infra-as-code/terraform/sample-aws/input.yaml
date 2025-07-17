@@ -1,11 +1,11 @@
 # Replace with the name which you want to give to your EKS cluster
 # Cluster name can have only lowercase alphanumeric characters and hyphens
 # For example: "digit-demo"
-cluster_name: "pgroneclicknewgoml"
+cluster_name: "pgroneclickgoml"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "pgroneclickdbgoml"
+db_name: "pgroneclickdb"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
