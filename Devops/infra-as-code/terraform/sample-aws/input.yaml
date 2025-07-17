@@ -1,21 +1,21 @@
 # Replace with the name which you want to give to your EKS cluster
 # Cluster name can have only lowercase alphanumeric characters and hyphens
 # For example: "digit-demo"
-cluster_name: "pgroneclicknew"
+cluster_name: "pgroneclicknewgoml"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "pgroneclickdb"
+db_name: "pgroneclickdbgoml"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
-db_username: "pgroneclick" 
+db_username: "pgroneclickgoml" 
 
 # Replace with Domain name you want for your web applications
 domain_name: "digit.demo.gomllabs.com"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform state
-terraform_state_bucket_name: "pgroneclick-demo-goml-state-s3-bucket"
+terraform_state_bucket_name: "pgroneclick-digit-demo-goml-state-s3-bucket"
 
 public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCKpvlhsGsYebAWNbRloOwL6+91xFejyopa1zh3LonH//GMpMVKz7b24ZcW8kgpqMeXB636xa1vIrO4V5Km1zmU32k3ggy+IJ8K0RL5Or9cpIC4I3MAuICSwrw6nbPGs0aaabsf3CUG+RpcId2bYG6UedQOEOnQMF8wZ2fr60bIJWtdJM7fNB3xm7pHVSyaHifnOkUR+JkRAAH7y3J6fR33pswgB0jxC0lu0N+6id/gJYSqM40GWgy7FIl0QNprfb3fidUMFQbEHJvIZLuuilEFRgAtO8YokPvcxkeR0OZJ+hWQ0ALheoLhk7H6d6qyg0V+NRLhh6HMYukIuU441Jut"
 tenant_id: "statea"
